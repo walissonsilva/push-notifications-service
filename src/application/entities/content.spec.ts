@@ -1,6 +1,6 @@
 import { Content } from './content';
 
-describe('Content', () => {
+describe('Notification content', () => {
   it('should be able to create a notification content with a valid length', () => {
     const content = new Content('banana');
 
